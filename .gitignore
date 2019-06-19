@@ -16,7 +16,7 @@ target/
 .classpath
 
 #idea ignore
-./idea
+.idea/
 /idea/
 *.ipr
 *.iml
